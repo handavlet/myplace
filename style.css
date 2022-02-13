@@ -1,0 +1,31 @@
+body {
+    color: black;
+}
+
+h1 {
+    color:salmon;
+    background-color: black;
+    padding: 10px;
+    margin: 50px; 
+    font-size: 80px;
+    line-height: 160px;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    color: red;
+    font-size: 32px;
+}
+
+a:visited {
+    color: purple;
+}
+
+img {
+width: 100vw;
+max-width: 500px;
+/* height: 100%; */
+}
